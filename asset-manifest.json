@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/recipeBytes/static/css/main.e9c1b8e5.css",
-    "main.js": "/recipeBytes/static/js/main.64f7ae88.js",
+    "main.js": "/recipeBytes/static/js/main.fcb795e1.js",
     "static/js/453.2b8417be.chunk.js": "/recipeBytes/static/js/453.2b8417be.chunk.js",
     "static/media/Mix.gif": "/recipeBytes/static/media/Mix.4b1eefce2857d4aeaa4c.gif",
     "static/media/Baking.gif": "/recipeBytes/static/media/Baking.02b9994ed56645eb5b74.gif",
@@ -10,11 +10,11 @@
     "static/media/Avatar.png": "/recipeBytes/static/media/Avatar.b58b3419a4a311864eff.png",
     "index.html": "/recipeBytes/index.html",
     "main.e9c1b8e5.css.map": "/recipeBytes/static/css/main.e9c1b8e5.css.map",
-    "main.64f7ae88.js.map": "/recipeBytes/static/js/main.64f7ae88.js.map",
+    "main.fcb795e1.js.map": "/recipeBytes/static/js/main.fcb795e1.js.map",
     "453.2b8417be.chunk.js.map": "/recipeBytes/static/js/453.2b8417be.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e9c1b8e5.css",
-    "static/js/main.64f7ae88.js"
+    "static/js/main.fcb795e1.js"
   ]
 }
