@@ -25,3 +25,5 @@ yarn-error.log*
 
 .env
 recipeenv/
+# Firebase files
+.firebaserc
