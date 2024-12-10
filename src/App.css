@@ -22,7 +22,6 @@ figcaption {
   padding: 0;
   box-sizing: border-box;
   font-family: 'inter', serif ;
-  overflow: hidden;
 }
 .App {
   text-align: center;
