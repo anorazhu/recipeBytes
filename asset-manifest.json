@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/recipeBytes/static/css/main.e9c1b8e5.css",
+    "main.js": "/recipeBytes/static/js/main.fc124b7f.js",
+    "static/js/453.430cf63b.chunk.js": "/recipeBytes/static/js/453.430cf63b.chunk.js",
+    "static/media/Mix.gif": "/recipeBytes/static/media/Mix.4b1eefce2857d4aeaa4c.gif",
+    "static/media/Baking.gif": "/recipeBytes/static/media/Baking.02b9994ed56645eb5b74.gif",
+    "static/media/Dicing.gif": "/recipeBytes/static/media/Dicing.ce29e8126acd289de63d.gif",
+    "static/media/Saute.gif": "/recipeBytes/static/media/Saute.978ee2a3f9827757ad02.gif",
+    "static/media/Avatar.png": "/recipeBytes/static/media/Avatar.b58b3419a4a311864eff.png",
+    "index.html": "/recipeBytes/index.html",
+    "main.e9c1b8e5.css.map": "/recipeBytes/static/css/main.e9c1b8e5.css.map",
+    "main.fc124b7f.js.map": "/recipeBytes/static/js/main.fc124b7f.js.map",
+    "453.430cf63b.chunk.js.map": "/recipeBytes/static/js/453.430cf63b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9c1b8e5.css",
+    "static/js/main.fc124b7f.js"
+  ]
+}
